@@ -1,0 +1,19 @@
+main-container{
+    front-family: Verdana, Geneva, Tahoma, sans-serf;
+}
+
+body {
+    background-color: darkred;
+    width: 50%;
+    margin: auto;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.C8fnDuhaQGdt_B6tRmEZxQHaE8&pid=Api&P=0");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+fieldset {
+    background-color: rgb(220, 78, 78);
+    border-radius: 10px;
+    border-color: black;
+    border-color: blue;
+}
