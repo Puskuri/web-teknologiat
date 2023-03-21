@@ -1,0 +1,9 @@
+.col-6 {
+    border-color: blue;
+    border-width: 0px;
+    border-style: dashed;
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+}
